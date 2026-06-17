@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-log.txt
+.pytest_cache/
+data/*.json
+Pipfile.lock
+.DS_Store

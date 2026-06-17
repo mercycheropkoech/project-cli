@@ -1,0 +1,32 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Alex",
+            "email": "alex@gmail.com",
+            "project_ids": [
+                1
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "id": 1,
+            "title": "cli lab",
+            "description": "summative assessment",
+            "due_date": "2026-12-31",
+            "user_id": 1,
+            "task_ids": [
+                1
+            ]
+        }
+    ],
+    "tasks": [
+        {
+            "id": 1,
+            "title": "Write cli",
+            "status": "todo",
+            "project_id": 1
+        }
+    ]
+}
