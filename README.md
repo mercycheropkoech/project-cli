@@ -12,7 +12,7 @@ A simple Command-Line Interface (CLI) project management tool built in Python. I
 - Track overdue projects  
 - Persistent storage using `data.json`  
 - Clean terminal UI using `rich`  
-- ⚡ Fast CLI powered by `click`
+- Fast CLI powered by `click`
 
 
 ## 🛠 Tech Stack
